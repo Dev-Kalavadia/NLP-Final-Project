@@ -1,5 +1,4 @@
-# NLP-Final-Project
-Sentiment Analysis based on Hotel Reviews 
+# NLP Final Project - Sentiment Analysis based on Hotel Reviews 
 
 **Group 25** Final Project 
 
