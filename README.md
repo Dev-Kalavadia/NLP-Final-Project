@@ -53,9 +53,7 @@ A** Simple Neural Network (SNN)** is a computational learning algorithm used to 
 
 To efficiently tackle this project, we are planning to schedule weekly work sessions to get together, discuss the next steps, and resolve any issues that might arise. We will be dividing the tasks equally among us as per the following:
 
-**Preprocessing** (_Zaeem, Ayush_)
-
-
+**Preprocessing** 
 
 1. Text Cleaning
 2. Text Exploration
@@ -63,23 +61,19 @@ To efficiently tackle this project, we are planning to schedule weekly work sess
 
 **Feature Engineering**
 
-
-
-1. TF-IDF Vectorization _(Badr, Dev)_
+1. TF-IDF Vectorization 
 
 **Building the Models**
 
+1. SVM
+2. SNN
+3. LSTM 
 
+**Cross-validation** 
 
-1. SVM _(Badr)_
-2. SNN (_Dev)_
-3. LSTM (_Zaeem_)
+**Model Evaluation/Scoring** 
 
-**Cross-validation** (_Ayush_)
-
-**Model Evaluation/Scoring** (_Badr, Dev, Zaeem, Ayush_)
-
-**Gathering the conclusions and writing the final paper** _(Badr, Dev, Zaeem, Ayush)_
+**Gathering the conclusions and writing the final paper**
 
 **References**
 
