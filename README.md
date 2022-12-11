@@ -11,7 +11,7 @@ Natural Language Processing
 
 Professor Adam Meyers
 
-**Sentiment Analysis based on Hotel Reviews **
+**Sentiment Analysis based on Hotel Reviews
 
 **Introduction:**
 
@@ -30,7 +30,6 @@ To analyze user sentiment, a variety of technologies are used. In this project, 
 There is one difference between the sets. Set A has Sentiment Analysis recorded as either “Happy” or “Not Happy” while Set B has Star Ratings. Thus, in pre-processing the data, we will standardize the first column in both data sets to only include a boolean value (0 - Not Happy, 1 - Happy). Set A can be converted to this format easily, however for Set B we will select Ratings of 4 and lower as Unhappy, and 6 and higher as Happy. 
 
 We will merge Set A and Set B into one large data set. This larger data set will be split in the following proportions to create the Training, Development, and Test Corpus:
-
 
 
 * 80% allocated to Training/Development
@@ -107,4 +106,4 @@ To efficiently tackle this project, we are planning to schedule weekly work sess
 [5] Jeremy Barnes, Lilja Øvrelid, and Erik Velldal. 2019. [Sentiment Analysis Is Not Solved! Assessing and Probing Sentiment Classification](https://aclanthology.org/W19-4802). In Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP, pages 12–23, Florence, Italy. Association for Computational Linguistics.
 
 
-        This paper gives an general overview of the neural methods for sentiment analysis and the ones that produced quantitative gains over other methods. The study describes the difficulties that sentiment classifiers for English still face when presented with a difficult dataset. Most importantly, shows how the dataset can be used to examine how well a particular sentiment classifier performs in relation to language events. Allowing us to research into the possible models we can explore for an accurate sentiment analysis. 
+    This paper gives an general overview of the neural methods for sentiment analysis and the ones that produced quantitative gains over other methods. The study describes the difficulties that sentiment classifiers for English still face when presented with a difficult dataset. Most importantly, shows how the dataset can be used to examine how well a particular sentiment classifier performs in relation to language events. Allowing us to research into the possible models we can explore for an accurate sentiment analysis. 
