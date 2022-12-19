@@ -10,7 +10,7 @@ Natural Language Processing
 
 Professor Adam Meyers
 
-**Sentiment Analysis based on Hotel Reviews
+**Sentiment Analysis based on Hotel Reviews**
 
 **Introduction:**
 
